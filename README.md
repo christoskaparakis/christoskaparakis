@@ -18,7 +18,7 @@ My life-long interests include:
 - literature & non-fiction reading :books: ([This](https://en.wikipedia.org/wiki/Frankenstein) and also [this](https://en.wikipedia.org/wiki/Meditations) are two of my favourite books respectively <3)
 - cooking :man_cook:
 - travelling :airplane:
-- gaming :gaming:
+- gaming :video_game:
 
 Currently, i am focused on Deep Learning, specifically on a precipitation nowcasting task.
 
