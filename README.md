@@ -3,7 +3,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ckaparakis/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://ckaparakis.github.io/)
-[![Gmail Badge](https://img.shields.io/badge/-sakshamtaneja7861@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ckaparakis@gmail.com)](mailto:ckaparakis@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-ckaparakis@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ckaparakis@gmail.com)](mailto:ckaparakis@gmail.com)
 
 My name is **Christos Kaparakis** and I am a [MSc in Data Science for Decision Making](https://www.maastrichtuniversity.nl/education/partner-program-master/data-science-decision-making) student @ [Maastricht University](https://www.maastrichtuniversity.nl/).
 
