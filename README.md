@@ -15,7 +15,7 @@ My work-related / scientific interests involve:
 - software engineering
 
 My life-long interests include:
-- literature & non-fiction reading :books: ([This](https://en.wikipedia.org/wiki/Frankenstein) and also [this](https://en.wikipedia.org/wiki/Meditations) are two of my favourite books and I keep going back to them <3)
+- literature & non-fiction reading :books: ([This](https://en.wikipedia.org/wiki/Frankenstein) and also [this](https://en.wikipedia.org/wiki/Meditations) are two of my favourite books and I keep going back to them ❤️)
 - cooking :man_cook:
 - travelling :airplane:
 - gaming :video_game:
